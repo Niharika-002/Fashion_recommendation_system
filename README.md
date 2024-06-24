@@ -2,7 +2,7 @@
 
 Welcome to the Fashion Recommendation System! This project leverages state-of-the-art transfer learning techniques and a K-Nearest Neighbors (KNN) model to provide personalized fashion recommendations by identifying similar images of clothing. This README will guide you through the setup, usage, and technical details of the system.
 
-DATASET : 
+DATASET : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 # Table of Contents
 1. Introduction
